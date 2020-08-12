@@ -18,4 +18,4 @@ ExMon.create_player(MOVE_AVERAGE, MOVE_RANDOM, MOVE_HEAL, PLAYER_NAME)
 3. ExMon.start_game(player)
 4. ExMon.make_move(:punch) or ExMon.make_move(:kick) or ExMon.make_move(:heal)
 
-**ENJOY IT!**
+**ENJOY IT!!**
